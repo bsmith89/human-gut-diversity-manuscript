@@ -1,0 +1,440 @@
+---
+title: Why does the gut have so many species?
+subtitle: The Paradox of the Plankton in human microbial ecology
+author: Byron J. Smith
+...
+
+-  Introduction
+    -  The human gut is highly diverse (alpha diversity, richness)
+        -  1400-1800 OTUs at 97% identity [Claesson 2009]
+
+            As much as three _times_ the mammalian diverity of
+            North America north of
+            Mexico [Baker et al. 2014: Revised checklist...].
+
+    -  Lack of diversity correlates with disease
+        -  Obesity [see HMP 2012 for refs.]
+        -  IBD [see HMP for refs.]
+        -  Cdiff [?]
+        -  Crohn's Disease [Manichanh 2006]
+    -  Diversity may confer health benefits
+        -  Immune system 'training' [?]
+        -  Invasion resistance [?]
+        -  SCFA production [?]
+        -  Emergent properties? Stability? [?]
+    -  This level of diversity is surprising
+        -  At equilibrium, competition should lead to exclusion (Gause's law)
+
+            The incredible diversity of the human gut seems to contradict
+            one of the core tennants of community ecology.
+            Based on intuition, theoretical treatment, and
+            empirical observation, the coexistance of two species which occupy
+            exactly the same niche should be untennable in the long term.
+            This is perhaps the only rule in ecology to be elevated to the
+            status of a natural law.
+            Gause's law, named for the Russian biologist who contributed
+            heavily to its experimental description [?], is also called
+            the principle of competitive exclusion, since it is based on
+            the reciprocally negative interactions between two species which
+            depend on the same limiting resource.
+            The growth of one population necessarily leads to the decline of
+            the other, ultimately leading to its extinction.
+            At equilibrium, only the better competitor is able to persist.
+
+        -  Gause's law is well supported [Hutchinson 1957: Concluding Remarks]
+
+            While exceptions to this principle are frequently suggested,
+            and many cases of stable coexistance have been robustly described,
+            none have served to overthrow Gause's law [Hutchinson 1957].
+            Instead, discovery of general mechanisms of coexistance, the
+            most important of which are described below, have served
+            to refine the definition of 'niche', and improved the theoretical
+            understanding of competition.
+            Thanks to this policy of modifying definitions and theory
+            rather than lowering its status, Gause's law has been described,
+            by friend [Hutchinson 1961] and foe [?] alike, as a tautology.
+            This may be the case, although it has nonetheless served as a
+            rallying point for ecological discovery.
+
+        -  Gut microbiome diversity seems too high to explain via resource
+           use heterogeneity.
+
+            How, given a finite number of limiting resources and an apparently
+            homogenous environment, can more than 1000 species of bacteria
+            co-occur in the human gut?
+
+    -  The 'Paradox of the Plankton'
+
+        The apparent contradiction between this central tenant
+        of community ecology
+        and the observation of high diversity in nature led
+        G. Evelyn Hutchinson to write
+        _The Paradox of the Plankton_ [Hutchinson 1961].
+        In that classic paper, Hutchinson asked why,
+        given the apparently homogenous environment
+        and small number of limiting resources,
+        freshwater phytoplankton communities are so incredibly diverse.
+
+        -  The 'Paradox of the Plankton' is a core, motivating observation
+           in community ecology
+
+            Along with Hutchinson's earlier treatise,
+            _Homage to Santa Rosalia_,
+            which has a similar theme,
+            _The Paradox_ has inspired much of the
+            last half century of community ecology.
+            Numerous mechanisms allowing for stable coexistance have been
+            hypothesized and tested, expanding our understanding of niche
+            processes.
+            What's more, challenges to a number of assumptions implicit in our
+            surprised reaction to this high species richness
+            have yielded alternative models of community assembly
+            which may improve our holisitic understanding.
+
+        -  Same as our question.
+
+            ~~Given the parallels between Hutchinson's question and our own,
+            it seems appropriate to scour the multitude of responses to
+            _The Paradox_ in search of answers to ours.~~
+
+            Given the parallels between Hutchinson's question and our own,
+            perhaps historical community ecology literature has
+            answers relevant to human microbiology.
+
+-  Mechanisms to explain high diversity
+
+    Through a combination of theoretical and emprical study, a number of
+    processes which oppose competitive exclusion have been identified,
+    and may contribute to the maintenance of species richness in nature.
+    These, and perhaps some not yet described,
+    must ultimately explain the extreme diversity of the human gut.
+    By understanding the underlying mechanisms,
+    more detailed explanations for the relationships between microbiome
+    diversity and human health may be elucidated.
+
+    Mechanisms which serve to maintain species richness can be conceptually
+    partitioned into two categories [?].
+    'Niche processes' increase the strength of intraspecific competition
+    relative to interspecific.
+    Resource specialization, predator mediated coexistance, and temporal niches
+    represent just a few;
+    these and others will be described below.
+    'Neutral processes', encompasse everything that is not dependent on the
+    fundamental differences between species.
+    Ecological drift, speciation, and migration are the major neutral processes
+    and their role in gut diversity will also be explored.
+
+    -  Niche processes
+
+        Competitive exclusion is dependent on the mutual, negative interaction
+        between two species competing for the same limiting resources.
+        These resources are frequently trophic,
+        although they need not be;
+        physical space, inhibitory or toxic byproducts, and other concentration
+        dependent constraints on growth can also be limiting resources.
+        Intriguingly, one or more aspects of host immune response may
+        play the role of a resource in the microbial community.
+        For instance, cross-reactivity of the immune system to two members
+        of the microbiome may lead to mutually negative effects of each
+        species on the other, analogous to a limiting trophic resource.
+
+        Simple, non-mechanistic models of multi-species growth,
+        such as Competitive Lotka-Volterra [?],
+        incorporate these limitations as a single term for each species,
+        the carrying capacity of the environment,
+        while a separate interaction terms define the effect of a other species
+        on that carrying capacity.
+        The carrying capacity terms are therefore a description of the strength
+        of self-regulation for each species
+        (i.e. intraspecific competition),
+        and the ratios of the interaction terms to carrying capacities can
+        be interpreted as the strength of interspecific competition.
+
+        -  Those which make intraspecific competition stronger than inter-
+
+            When species consume the same limiting resource
+            interspecific interactions are relatively strong,
+            whereas, when there is no overlap between the resources consumed,
+            interactions may be non-existant.
+            Along with our intuition, analysis of this model shows that
+            two species can stably coexist when, for both,
+            intraspecific effects are stronger than interspecific.
+            Resource niches,
+            which decrease the magnitude of interaction terms,
+            promote coexistance.
+
+            As an intriguing side-effect of this model,
+            when interspecific effects are stronger than intraspecific for both
+            species,
+            the outcome of competition is dependent on the starting state of
+            the system;
+            whichever species is initially dominant outcompetes the other.
+            In the gut microbiome, this 'founder control' could explain the
+            temporally stable differences between individuals [?],
+            or the high recurrance rate of antibiotic associated diarrhea [?].
+            Additional study of alternative stable states in the human
+            microbiome could lead to improved treatments for various ailments.
+
+        -  Many niches
+
+            Based on this model of niche mediated coexistance,
+            it is reasonable to ask if there are enough niches
+            to explain the thousand or more OTUs co-occuring in the human gut.
+
+            -  Is it possible for there to be _thousands_ of different
+               resources in the human gut?
+                -  Microbes don't really have the same physical options
+                   for partitioning resources
+
+                    Resource niches in heterotrophic macrobes are largely
+                    determined by the size and resistance of prey items;
+                    It's easy to see how a species of finch might specialize on
+                    seeds of particular size and shell thickness.
+                    Heterotrophic bacteria, by contrast, are only capable of
+                    absorbing small molecules,
+                    no larger than several hundred daltons [?].
+
+                Is it possible that there are sufficiently many _different_
+                substrates with high enough abundance and stability
+                to sustain each of these microbial populations?
+                Just like Hutchinson's plankton,
+                at first glance, it would appear unlikely that the diversity
+                of limiting resources could match the observed species
+                diversity.
+                Nonetheless, this is an empirical question worth pursuing,
+                and tallying the array of trophic options available in the gut
+                should yield interesting results [previous work like this].
+                One first pass approach would be to identify the number of
+                ATP generating metabolic modules in a shotgun metagenome
+                of the gut microbiome [shotgun metagenomes collected].
+
+                Even if there are a multitude of carbon sources,
+                nitrogen compounds may be more broadly limiting [?].
+                If this true, the case for a niche based explanation for
+                gut species richness would appear tenuous
+                as the diversity of nitrogen sources is relatively low.
+
+            -  Tilman model
+
+                While Competitive Lotka-Volterra is able to model the
+                persistance of species which occupy sufficiently different
+                niches,
+                Tilman's explicitly mechanistic competition
+                model [Tilman 1977],
+                also yields stable coexistance between species.
+                By describing not only the growth of multiple populations
+                but also the depletion of multiple resources,
+                species dependent on the exact same substrates may coexist
+                when each is growth limited by a different one.
+                For instance, two bacteria which both grow on glucose and
+                ammonium may persist indefinitely if glucose concentrations are
+                low enough to check the growth of one, and ammonium
+                concentrations are low enough for the other.
+
+                As a result of this mechanism, supplementation of a
+                limiting resource may remove the constraint on one species'
+                growth, allowing it to exlude the other in competition for
+                the remaining limiting resource.
+                This effect was harnessed by Tilman to show that increasing
+                resource availability can result in reduced diversity of
+                plant communities [Harpole & Tilman 2007].
+                A similar test in mice could asses the importance of limiting
+                resources in maintaining gut biodiversity.
+
+            -  Multiple environments along the gut
+
+                Of course, the entire length of the human digestive system can
+                hardly be considered a single environment.
+                Fecal samples, the source of most richness estimates, are the
+                summation of microbial populations which persist in
+                food, oral, gastric, small intestinal, and colonal habitats
+                (and perhaps other ecologically relevant subdivisions).
+                The total number of resource niches contributing
+                to the diversity of microbes in feces,
+                is perhaps better estimated as the sum of limiting resources
+                within each environment along the digestive tract.
+                Environmental factors, such as temperature, pH,
+                oxygen availability, and the host immune system,
+                all affect the outcome of competition.
+
+                -  Oxygen and resource gradients along a proximodistal
+                   dimension.
+
+                    Oxygen partial pressure is a particularly interesting
+                    component of the host environment, with the potential
+                    to substantially influence both the niches available,
+                    and the outcome of competition in the gut [?].
+                    At oral end of the gastrointestinal tract, bacterial
+                    communities have access to high concentrations of oxygen,
+                    resulting in selection for those species which are able to
+                    reap the benefits of aerobic respiration
+                    and resist the toxic effects of the oxygen molecule itself.
+                    Respiration by the microbial community quickly depletes
+                    oxygen concentrations until,
+                    from a short distance into the small intestine onwards,
+                    the gut lumen is largely anaerobic.
+                    Host absorbtion removes simple molecules in the small
+                    intestine,
+                    leaving bacteria in the large intestine with a
+                    rich array of polysaccharides to be broken into glucose and
+                    other monomeric sugars and fermented.
+                    Ultimately, this process provides the host with large
+                    quantities of short chain fatty acids (SCFAs),
+                    supplying as much as 10% of total caloric intake in
+                    humans [?].
+
+                    Despite the anaerobic nature of the intestinal lumen,
+                    the gut epithelium is richly perfused with blood, resulting
+                    in diffusion of oxygen through the mucose layer into
+                    the internal environment.
+                    This proximodistal oxygen gradient suggests that some
+                    gut bacteria, especially those occupying the mucosa,
+                    may have access to more profitable respiration
+                    of both sugars and SCFAs.
+                    Clearly, oxygen dynamics alone create a number of
+                    divergent 'climates' in the gut,
+                    potentially supplying new niches,
+                    and maintaining the long-term viability of additional
+                    species.
+
+                -  Explicit discussion of resources in different segments of
+                   the gut
+            -  Temporal/spatial heterogeneity
+
+                This environmental differentiation between body sites may be
+                paired with microenvironmental variation at the millimeter
+                scale [?].
+                Additionally, temporal fluctuations are probably a ubiquitous
+                experience for microbes in the human gut due to physiological
+                cycles of the host and directional flow of lumen contents.
+                Both temporal and spatial heterogeneity have been studied as
+                mechanisms of coexistance [Chesson 2000].
+                When environmental changes invert the direction of selection,
+                the scale of these fluctuations (whether in space or time)
+                is expected to have an important effect on the outcome of
+                competition [Hutchinson 1961].
+
+                ~~To simplify a rich theoretical literature
+                in the temporal case:
+                when fluctuations occur at time scales much shorter than
+                selection,
+                the outcome of competition reflects the average fitness
+                of each competitor over time,
+                and ultimately results in exclusion;
+                fluctuations at scales much longer than the rate of selection
+                result in exclusion before the environment has time to change
+                again;
+                interestingly, however, fluctuations at a time scale similar
+                to the rate of ecological change
+                reduce the strength of this selection, making the effective
+                fitness of each species close to equal.
+                While this does not allow for _stable_ coexistance,
+                it does increase the time to exclusion, and could be
+                a component of a non-equilibrium model for
+                the maintenance of diversity (further described below).~~
+
+                -  Are heterogeneities in the gut at the right scale to
+                   explain microbiome diversity?
+
+        -  Importance of Trade-offs
+
+            The observation that the outcome of competition is context
+            dependent reflects another central theme of community ecology.
+            No species is ecologically superior in all environments,
+            demonstrating the universality of physiological trade-offs.
+            Negative pleiotropy between the ability to grow on
+            different substrates directly explains resource specialization.
+            Besides those based on environmental and trophic trade-offs,
+            an entire suite of coexistance mechanisms,
+            some of which will be described here,
+            depend on more abstract correlations between species traits.
+
+            -  Competitor/colonizer trade-off
+            -  Storage Effect (or at least mention non-linear effects)
+
+        -  Predator, pathogen mediated co-existance
+
+            While negative frequency dependent effects,
+            such as resource limitation,
+            serve to stabilize two species interactions,
+            third species can also contribute to these negative feedbacks,
+            promoting stable coexistance.
+            Predator and parasite mediated coexistance have been described
+            theoretically [Caswell 1978] and
+            empirically [Paine 1966 (and many others, see Caswell)]
+            The result of a new, exploitative interaction on the initial
+            competition is partially dependent on the exact structure of the
+            trophic network.
+            A generalist predator or one which specializes on the weaker
+            competitor will serve to quicken the rate of ecological selection.
+            Conversely, an independent predator of each species or a predator
+            which specializes on the stronger competitor can lead to stable
+            coexistance.
+            In part due to the popularity of 16S based surveys of the
+            microbiome,
+            which ignore both eukaryotic and viral members of the community,
+            studies of predators and parasites of bacteria and archaea
+            in the human gut are lacking.
+            Incorporating these factors may help explain the extreme
+            biodiversity.
+
+        -  Niches created by mutualisms
+
+            Undoubtebly, some of the biodiversity observed in macroscopic
+            organisms can be explained not through exploitative,
+            but rather mutualistic interactions.
+            Pollinator species in the tropics, for instance, frequently
+            have highly specific mutualisms with flowering plants which
+            provide trophic resources [?].
+            The specificity of this relationship provides tailored niches
+            for individual pollinators, potentially contributing substantially
+            to the total species capacity of these ecosystems.
+            Analogous mutualisms in microbes, for instance
+            between bacteria which produce auto-inhibitory hydrogen
+            and methanogenic archaea, could similarly support increased
+            diversity.
+            This mechanism is likely responsible for some of the species
+            richness found in the gut,
+            but exactly how much is unclear.
+            Further research into these types of species interactions
+            may inform not only our understanding of biodiversity,
+            but also provide a predictive framework for the impact of
+            perturbations on community composition.
+
+
+    -  Neutral processes
+
+        The search for mechanisms of coexistance has been a near obsession for
+        community ecologists.
+        This is partially a byproduct of the popular mathematical approaches,
+        especially stability analysis,
+        brought to the field by academics immigrating to ecology from physics
+        in the middle of the 20th century.
+        More recent influences from thermodynamics and statistical mechanics,
+        as well as evolutionary biology,
+        have inspired a new wave of non-equilibrium theories of biodiversity.
+
+        Here we will refer to these collectively as 'non-niche' or 'neutral'
+        processes,
+        although this is grouping a diverse array of forces by only their
+        distinction from niche mechanisms.
+        Three general processes fall into this category:
+        drift, fluctuations in the abundance of finite populations due to
+        the stochasticity of survival and reproduction;
+        migration, the movement of individuals into or out of the system;
+        and speciation, the in situ generation of diversity through
+        evolutionary change.
+        Along with ecological selection discussed above,
+        these forces perfectly parallel the four components of population
+        genetics [Vellend, 2010].
+
+
+        -  Drift
+            -  Only small fitness differences
+            -  Equalizing mechanisms
+        -  Migration
+    -  Emergent properties / Higher level selection
+-  Conclusion
+    -  No single explanation for gut diversity
+    -  Having a core motivating question can enrich the field
+    -  We can take inspiration from community ecology
