@@ -219,11 +219,13 @@ author: Byron J. Smith
                 While Competitive Lotka-Volterra is able to model the
                 persistance of species which occupy sufficiently different
                 niches,
+                perhaps more satisfyingly,
                 Tilman's explicitly mechanistic competition
                 model [Tilman 1977],
                 also yields stable coexistance between species.
                 By describing not only the growth of multiple populations
                 but also the depletion of multiple resources,
+                this model was able to demonstrate that
                 species dependent on the exact same substrates may coexist
                 when each is growth limited by a different one.
                 For instance, two bacteria which both grow on glucose and
@@ -255,7 +257,9 @@ author: Byron J. Smith
                 within each environment along the digestive tract.
                 Environmental factors, such as temperature, pH,
                 oxygen availability, and the host immune system,
-                all affect the outcome of competition.
+                all affect
+                (and in many cases invert)
+                the outcome of competition.
 
                 -  Oxygen and resource gradients along a proximodistal
                    dimension.
@@ -264,19 +268,19 @@ author: Byron J. Smith
                     component of the host environment, with the potential
                     to substantially influence both the niches available,
                     and the outcome of competition in the gut [?].
-                    At oral end of the gastrointestinal tract, bacterial
+                    At the oral end of the gastrointestinal tract, bacterial
                     communities have access to high concentrations of oxygen,
                     resulting in selection for those species which are able to
                     reap the benefits of aerobic respiration
                     and resist the toxic effects of the oxygen molecule itself.
                     Respiration by the microbial community quickly depletes
                     oxygen concentrations until,
-                    from a short distance into the small intestine onwards,
+                    after a short distance into the small intestine,
                     the gut lumen is largely anaerobic.
-                    Host absorbtion removes simple molecules in the small
+                    Host absorption removes simple molecules in the small
                     intestine,
                     leaving bacteria in the large intestine with a
-                    rich array of polysaccharides to be broken into glucose and
+                    rich array of polysaccharides to be broken into glucose or
                     other monomeric sugars and fermented.
                     Ultimately, this process provides the host with large
                     quantities of short chain fatty acids (SCFAs),
@@ -289,8 +293,8 @@ author: Byron J. Smith
                     the internal environment.
                     This proximodistal oxygen gradient suggests that some
                     gut bacteria, especially those occupying the mucosa,
-                    may have access to more profitable respiration
-                    of both sugars and SCFAs.
+                    may be able to respire the abundant sugars and SCFAs,
+                    a significantly more profitable metabolism.
                     Clearly, oxygen dynamics alone create a number of
                     divergent 'climates' in the gut,
                     potentially supplying new niches,
@@ -304,15 +308,17 @@ author: Byron J. Smith
                 This environmental differentiation between body sites may be
                 paired with microenvironmental variation at the millimeter
                 scale [?].
-                Additionally, temporal fluctuations are probably a ubiquitous
+                Temporal fluctuations, as well, are probably a ubiquitous
                 experience for microbes in the human gut due to physiological
                 cycles of the host and directional flow of lumen contents.
                 Both temporal and spatial heterogeneity have been studied as
                 mechanisms of coexistance [Chesson 2000].
                 When environmental changes invert the direction of selection,
-                the scale of these fluctuations (whether in space or time)
+                the frequency of these fluctuations (whether in space or time)
                 is expected to have an important effect on the outcome of
                 competition [Hutchinson 1961].
+
+                - Beta diversity
 
                 ~~To simplify a rich theoretical literature
                 in the temporal case:
@@ -356,27 +362,28 @@ author: Byron J. Smith
 
             While negative frequency dependent effects,
             such as resource limitation,
-            serve to stabilize two species interactions,
+            serve to stabilize two-species interactions,
             third species can also contribute to these negative feedbacks,
-            promoting stable coexistance.
+            sometimes promoting stable coexistance.
             Predator and parasite mediated coexistance have been described
             theoretically [Caswell 1978] and
             empirically [Paine 1966 (and many others, see Caswell)]
-            The result of a new, exploitative interaction on the initial
+            The result of a new exploitative interaction on the initial
             competition is partially dependent on the exact structure of the
             trophic network.
-            A generalist predator or one which specializes on the weaker
-            competitor will serve to quicken the rate of ecological selection.
-            Conversely, an independent predator of each species or a predator
+            Either a generalist predator or one which specializes on the weaker
+            competitor serves to quicken the rate of ecological selection.
+            Conversely, independent predators of each species or a predator
             which specializes on the stronger competitor can lead to stable
             coexistance.
             In part due to the popularity of 16S based surveys of the
-            microbiome,
-            which ignore both eukaryotic and viral members of the community,
+            microbiome
+            which often ignore both eukaryotic
+            and viral members of the community,
             studies of predators and parasites of bacteria and archaea
             in the human gut are lacking.
-            Incorporating these factors may help explain the extreme
-            biodiversity.
+            Incorporating these factors may help to explain some of the
+            remarkable biodiversity.
 
         -  Niches created by mutualisms
 
@@ -408,12 +415,11 @@ author: Byron J. Smith
         community ecologists.
         This is partially a byproduct of the popular mathematical approaches,
         especially stability analysis,
-        brought to the field by academics immigrating to ecology from physics
-        in the middle of the 20th century.
-        More recent influences from thermodynamics and statistical mechanics,
-        as well as evolutionary biology,
-        have inspired a new wave of non-equilibrium theories of biodiversity.
-
+        many of which were brought to the field by theoreticians immigrating
+        to ecology from physics in the middle of the 20th century.
+        More recent influences have come from thermodynamics,
+        statistical mechanics, and evolutionary biology,
+        inspiring a new wave of non-equilibrium theories of biodiversity.
         Here we will refer to these collectively as 'non-niche' or 'neutral'
         processes,
         although this is grouping a diverse array of forces by only their
@@ -424,15 +430,15 @@ author: Byron J. Smith
         migration, the movement of individuals into or out of the system;
         and speciation, the in situ generation of diversity through
         evolutionary change.
-        Along with ecological selection discussed above,
-        these forces perfectly parallel the four components of population
+        Along with ecological selection, discussed above,
+        these perfectly parallel the four processes considered in population
         genetics [Vellend, 2010].
 
 
         -  Drift
             -  Only small fitness differences
             -  Equalizing mechanisms
-        -  Migration
+        -  Migration/Speciation
     -  Emergent properties / Higher level selection
 -  Conclusion
     -  No single explanation for gut diversity
