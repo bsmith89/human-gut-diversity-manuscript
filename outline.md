@@ -433,14 +433,117 @@ author: Byron J. Smith
         Along with ecological selection, discussed above,
         these perfectly parallel the four processes considered in population
         genetics [Vellend, 2010].
-
+        Neutral processes have major implications for the maintenance of
+        biodiversity in the human gut.
 
         -  Drift
+
+            Ecological drift, like its evolutionary counterpart, is the result
+            of the inherently statistical nature of births and deaths in
+            natural populations, and results and a random walk of
+            relative abundances through time.
+            Like competitive exclusion, acting in isolation for
+            sufficient time,
+            ecological drift results in the loss of diversity.
+            This is because the random walk ultimately
+            leads to extinction, a non-reversable event.
+            Whereas niche processes are deterministic and standard mathematical
+            models describe dynamics in infinitely large communities,
+            ecological drift is strongest in small populations, where
+            stochastic births, deaths, and disasters can result in large
+            percent changes in abundance.
+            Microbes of detectable abundance in the human gut are necessarily
+            large populations.
+            With on the order of $10^14$ microbial cells in the human GI tract,
+            any species at even 0.01% abundance in community surveys
+            has a population size akin to the number of people on the planet.
+            Nonetheless, even populations this large are subject to drift,
+            especially since the physical locations of a particular species in
+            the gut lumen is likely clumpy, and therefore death and washout
+            may not be statistically independent events.
+            Any finite size community is therefore not in equilibrium,
+            and consideration of long-term stability is superseded by
+            analysis of statistical expectations over time.
+            This perspective is a reminder that community composition,
+            and therefore species richness, is constantly in flux.
+
             -  Only small fitness differences
+
+                The stochasticity of ecological drift is tempered, however,
+                by the determism of ecological selection,
+                which in some cases buffers species from extinction through
+                negative density or frequency dependent selection,
+                and in others quickens the pace through competition.
+                Besides small population sizes, the relative importance of
+                drift is increased when species are of more similar fitness.
+                Mechanisms which decrease fitness differences can therefore
+                increase the time to competitive
+                exclusion [Adler 2007; Chesson 2000].
+
             -  Equalizing mechanisms
+
+                One such equalizing mechanism is environmental variability.
+                When climatic variables fluctuate at a frequency similar to the
+                rate of competitive exlusion, such that the relative fitness of
+                two competitors is continually inverted,
+                fitness difference are effectively brought closer to zero [?].
+                Short term diversity can therefore be increased by
+                environmental fluctuations at the right time scale.
+                In the human gut, this mechanism may be highly important,
+                since temporal fluctuations are ubiquitous and occur at a
+                variety of time scales.
+                Alternatively, even in static environments,
+                fitness equivilancy may be the norm,
+                a hypothesis supported by the prevalence of
+                physiological trade-offs.
+
+            Whether the diversity of the human gut is the result of
+            deterministic, stabilizing mechanisms, or processes which equalize
+            fitness between species is a key question [Adler 2007],
+            and may have implications for the management of microbiome related
+            disbioses.
+
         -  Migration/Speciation
+
+            With competition and drift actively removing diversity from local
+            communities, migration and speciation serve to as a counterbalance,
+            introducing new species either _de novo_,
+            in the case of speciation, or by immigration from outside the
+            local system.
+
     -  Emergent properties / Higher level selection
 -  Conclusion
     -  No single explanation for gut diversity
+
+        With little previous research, the source of extreme species richness
+        in the human gut is a standing question.
+        The relative importance of stabilizing mechanisms which promote
+        long term coexistance, versus non-equilibrium processes, such as
+        drift, migration, and _in situ_ diversification remains to be tested,
+        and all four processes are likely to take part.
+
     -  Having a core motivating question can enrich the field
+
+        For community ecology, Hutchinson's _Paradox of the Plankton_ has
+        served as a rallying point for theoretical study [?],
+        ultimately leading to a diverse mathematical basis for empirical
+        study.
+        With the advent of culture-free methods for microbial ecology,
+        human microbiome research has quickly assumed the task of describing
+        our symbiotic community.
+        As the field begins the process of developing predictive capabilities
+        and tools for community management,
+        a similarly robust theoretical foundation will be of paramount
+        importance.
+        A central question, such as explaining the observed
+        diversity of the gut community, will serve to motivate and focus
+        theory and experimentation, with positive repurcussions for
+        applications as well.
+
     -  We can take inspiration from community ecology
+
+        Human microbiome research _is_ community ecology.
+        While there are undoubtedly qualitative differences between
+        microbial and macroscopic communities, the literature of traditional
+        ecology is a valuable resource in the transition to a predictive
+        and applied science.
