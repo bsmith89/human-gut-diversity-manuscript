@@ -13,6 +13,10 @@ author: Byron J. Smith
         North America north of
         Mexico [Baker et al. 2014: Revised checklist...].
 
+        [Number of vertabrates in US](http://www.currentresults.com/Environment-Facts/Plants-Animals/number-of-native-species-in-united-states.php)
+
+        [Number of amphibians worldwide](http://faculty.college-prep.org/~bernie/sciproject/project/Kingdoms/Animal%20Kingdom%20-%205/Local%20copy/classification/chordata.html)
+
 -  Lack of diversity correlates with disease
     -  Obesity [see HMP 2012 for refs.]
     -  IBD [see HMP for refs.]
@@ -58,7 +62,7 @@ How, given a finite number of limiting resources and an apparently
 homogeneous environment, can more than 1000 species of bacteria
 co-occur in the human gut?
 
-# 'The Paradox of the Plankton' #
+## 'The Paradox of the Plankton' ##
 The apparent contradiction between this central tenant
 of community ecology
 and the observation of high diversity in nature led
@@ -69,6 +73,9 @@ given the apparently homogeneous environment
 and small number of limiting resources,
 freshwater phytoplankton communities are so incredibly diverse.
 
+Given the parallels between Hutchinson's question and our own,
+perhaps historical community ecology literature has
+answers relevant to human microbiology.
 Along with Hutchinson's earlier treatise,
 _Homage to Santa Rosalia_,
 which has a similar theme,
@@ -82,9 +89,6 @@ surprised reaction to this high species richness
 have yielded alternative models of community assembly
 which may improve our holistic understanding.
 
-Given the parallels between Hutchinson's question and our own,
-perhaps historical community ecology literature has
-answers relevant to human microbiology.
 
 # Explanations for Diversity #
 Through a combination of theoretical and empirical study, a number of
@@ -112,7 +116,7 @@ and their role in gut diversity will also be explored.
 Competitive exclusion is dependent on the mutual, negative interaction
 between two species competing for the same limiting resources.
 These resources are frequently trophic,
-although they need not be;
+although they need not be:
 physical space, inhibitory or toxic byproducts, and other concentration
 dependent constraints on growth can also be limiting resources.
 Intriguingly, one or more aspects of host immune response may
@@ -334,7 +338,7 @@ in the human gut are lacking.
 Incorporating these factors may help to explain some of the
 remarkable biodiversity.
 
-Undoubtedly some of the biodiversity observed in macroscopic
+Undoubtedly portions of the biodiversity observed in macroscopic
 organisms can be explained not through exploitative,
 but rather mutualistic interactions.
 Pollinator species in the tropics, for instance, frequently
@@ -347,7 +351,7 @@ Analogous mutualisms in microbes, for instance
 between bacteria which produce auto-inhibitory hydrogen
 and methanogenic archaea, could similarly support increased
 diversity.
-This mechanism is likely responsible for some of the species
+High specificity mutualisms are likely responsible for some of the species
 richness found in the gut,
 but exactly how much is unclear.
 Further research into these types of species interactions
@@ -401,8 +405,9 @@ large populations.
 With on the order of $10^14$ microbial cells in the human GI tract,
 any species at even 0.01% abundance in community surveys
 has a population size akin to the number of people on the planet.
-Nonetheless, even populations this large are subject to drift,
-especially since the physical locations of a particular species in
+Nonetheless, even large populations are subject to drift,
+especially in this case,
+since the physical locations of a particular species in
 the gut lumen is likely clumpy, and therefore death and washout
 may not be statistically independent events.
 Any finite size community is therefore not in equilibrium,
