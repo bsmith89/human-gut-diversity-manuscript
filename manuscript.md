@@ -449,14 +449,72 @@ communities, migration and speciation serve to as a counterbalance,
 introducing new species either _de novo_,
 in the case of speciation, or by immigration from outside the
 local system.
+By conceptually partitioning local and regional communities,
+speciation within the relatively small, local community can be effectively
+ignored and replaced with migration,
+though speciation at the regional scale is the ultimate source of global
+biodiversity.
+The Theory of Island Biogeography [MacArthur and Wilson, 1959?] was
+an early model describing the effect of migration rates on local diversity,
+specifically the balance of two rate processes:
+migration from a external species pool and local extinction.
+Surprisingly, this simple, equilibrium model of species richness
+fits well patterns of diversity on island archipelagos
+without invoking niches or competitive differences [].
+Island Biogeography, as a model of community assembly in the human gut,
+predicts a constantly changing species composition,
+despite a diversity equilibrium.
+This is not held up by the empirical observation that the gross composition of
+the human gut microbiome is relatively constant.
+Regardless, a portion of the members of the gut community may be determined
+by migration from the external environment.
+Searching 16S time series for these kinds of dynamics may be an important
+line of research.
 
--  Island biogeography
--  Hubbel's Neutral Model of Community Assembly
+Stephen Hubbel's Unified Neutral Theory of Biodiversity [] attempted to
+replicate this success, but with a more explicit treatment of mechanism
+and several controversial assumptions which limit applicability.
+Hubbel's model has been reformulated for microbial populations [Sloan 2005],
+and may serve as a valuable null hypothesis in identifying community
+compositions which cannot be explained by purely neutral processes [Arvind].
+A significant fraction of the species diversity in the human gut may be
+transients from the external environment.
+If this hypothesis is correct then community composition should reflect
+primarily neutral processes.
 
 ## Emergent Properties and Higher Level Selection ##
+As a result of the immense importance of the gut microbiome to host health,
+the global prevalence of any single species is not only determined by its
+relative fitness in competition with other community members,
+but also its effect on fitness of the host.
+This is a classic example of an extended phenotype [?],
+and may help to explain the evolution of host-microbe mutualisms [?].
+Some of the benefits conferred by microbial communities
+are likely to be not just the sum of its parts,
+but irreducible properties of the community structure as a whole.
+Community stability and invasion resistance, for instance, may protect the
+host from pathogens, and is not a property of any individual symbiont.
+Diversity itself may be causally related to both community function and
+stability [Tilman?].
+Selection for emergent properties which are most advantageous to the host,
+combined with high fidelity transmission of communities between hosts,
+sets the stage for evolution to act not at the level of microbial populations,
+but instead on full communities [?].
+Higher level selection could result in the evolution of a highly diverse
+communities [Santa Rosalia?].
+Alternatively, host genotypes which promote community diversity may be
+selected for,
+a reversed example of an extended phenotype.
 
--  Selection at the host level
-    -  For stability/function
+Hypotheses which depend on higher level selection are open to several common
+criticisms.
+Foremost among these is the necessary fidelity of transmission.
+If communities are assembled from a largely random assortment of environmental
+microbes,
+then selection acting on emergent properties does not affect the prevalence
+of these community level traits over time.
+Alternative explanations, such as monotonic effects of symbionts on host
+fitness and host genotype control are often more parsimonious.
 
 # Conclusion #
 
