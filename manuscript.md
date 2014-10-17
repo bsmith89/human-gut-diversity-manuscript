@@ -9,7 +9,7 @@ author: Byron J. Smith
 -  The human gut is highly diverse (alpha diversity, richness)
     -  1400-1800 OTUs at 97% identity [Claesson 2009]
 
-        As much as three _times_ the mammalian diverity of
+        As much as three _times_ the mammalian diversity of
         North America north of
         Mexico [Baker et al. 2014: Revised checklist...].
 
@@ -17,7 +17,7 @@ author: Byron J. Smith
     -  Obesity [see HMP 2012 for refs.]
     -  IBD [see HMP for refs.]
     -  Cdiff [?]
-    -  Crohn's Disease [Manichanh 2006]
+    -  Crohn's disease [Manichanh 2006]
 -  Diversity may confer health benefits
     -  Immune system 'training' [?]
     -  Invasion resistance [?]
@@ -26,10 +26,10 @@ author: Byron J. Smith
 
 ## Gause's Law ##
 The incredible diversity of the human gut seems to contradict
-one of the core tennants of community ecology.
+one of the core tenants of community ecology.
 Based on intuition, theoretical treatment, and
-empirical observation, the coexistance of two species which occupy
-exactly the same niche should be untennable in the long term.
+empirical observation, the coexistence of two species which occupy
+exactly the same niche should be untenable in the long term.
 This is perhaps the only rule in ecology to be elevated to the
 status of a natural law.
 Gause's law, named for the Russian biologist who contributed
@@ -42,9 +42,9 @@ the other, ultimately leading to its extinction.
 At equilibrium, only the better competitor is able to persist.
 
 While exceptions to this principle are frequently suggested,
-and many cases of stable coexistance have been robustly described,
+and many cases of stable coexistence have been robustly described,
 none have served to overthrow Gause's law [Hutchinson 1957].
-Instead, discovery of general mechanisms of coexistance, the
+Instead, discovery of general mechanisms of coexistence, the
 most important of which are described below, have served
 to refine the definition of 'niche', and improved the theoretical
 understanding of competition.
@@ -55,17 +55,17 @@ This may be the case, although it has nonetheless served as a
 rallying point for ecological discovery.
 
 How, given a finite number of limiting resources and an apparently
-homogenous environment, can more than 1000 species of bacteria
+homogeneous environment, can more than 1000 species of bacteria
 co-occur in the human gut?
 
-# 'The Pardox of the Plankton' #
+# 'The Paradox of the Plankton' #
 The apparent contradiction between this central tenant
 of community ecology
 and the observation of high diversity in nature led
 G. Evelyn Hutchinson to write
 _The Paradox of the Plankton_ [Hutchinson 1961].
 In that classic paper, Hutchinson asked why,
-given the apparently homogenous environment
+given the apparently homogeneous environment
 and small number of limiting resources,
 freshwater phytoplankton communities are so incredibly diverse.
 
@@ -74,20 +74,20 @@ _Homage to Santa Rosalia_,
 which has a similar theme,
 _The Paradox_ has inspired much of the
 last half century of community ecology.
-Numerous mechanisms allowing for stable coexistance have been
+Numerous mechanisms allowing for stable coexistence have been
 hypothesized and tested, expanding our understanding of niche
 processes.
 What's more, challenges to a number of assumptions implicit in our
 surprised reaction to this high species richness
 have yielded alternative models of community assembly
-which may improve our holisitic understanding.
+which may improve our holistic understanding.
 
 Given the parallels between Hutchinson's question and our own,
 perhaps historical community ecology literature has
 answers relevant to human microbiology.
 
 # Explanations for Diversity #
-Through a combination of theoretical and emprical study, a number of
+Through a combination of theoretical and empirical study, a number of
 processes which oppose competitive exclusion have been identified,
 and may contribute to the maintenance of species richness in nature.
 These, and perhaps some not yet described,
@@ -100,10 +100,10 @@ Mechanisms which serve to maintain species richness can be conceptually
 partitioned into two categories [?].
 'Niche processes' increase the strength of intraspecific competition
 relative to interspecific.
-Resource specialization, predator mediated coexistance, and temporal niches
+Resource specialization, predator mediated coexistence, and temporal niches
 represent just a few;
 these and others will be described below.
-'Neutral processes', encompasse everything that is not dependent on the
+'Neutral processes', encompass everything that is not dependent on the
 fundamental differences between species.
 Ecological drift, speciation, and migration are the major neutral processes
 and their role in gut diversity will also be explored.
@@ -138,13 +138,13 @@ be interpreted as the strength of interspecific competition.
 When species consume the same limiting resource
 interspecific interactions are relatively strong,
 whereas, when there is no overlap between the resources consumed,
-interactions may be non-existant.
+interactions may be non-existent.
 Along with our intuition, analysis of this model shows that
 two species can stably coexist when, for both,
 intraspecific effects are stronger than interspecific.
 Resource niches,
 which decrease the magnitude of interaction terms,
-promote coexistance.
+promote coexistence.
 
 As an intriguing side-effect of this model,
 when interspecific effects are stronger than intraspecific for both
@@ -154,13 +154,13 @@ the system;
 whichever species is initially dominant outcompetes the other.
 In the gut microbiome, this 'founder control' could explain the
 temporally stable differences between individuals [?],
-or the high recurrance rate of antibiotic associated diarrhea [?].
+or the high recurrence rate of antibiotic associated diarrhea [?].
 Additional study of alternative stable states in the human
 microbiome could lead to improved treatments for various ailments.
 
-Based on this model of niche mediated coexistance,
+Based on this model of niche mediated coexistence,
 it is reasonable to ask if there are enough niches
-to explain the thousand or more OTUs co-occuring in the human gut.
+to explain the thousand or more OTUs co-occurring in the human gut.
 
 Resource niches in heterotrophic macrobes are largely
 determined by the size and resistance of prey items;
@@ -191,12 +191,12 @@ as the diversity of nitrogen sources is relatively low.
 
 
 While Competitive Lotka-Volterra is able to model the
-persistance of species which occupy sufficiently different
+persistence of species which occupy sufficiently different
 niches,
 perhaps more satisfyingly,
 Tilman's explicitly mechanistic competition
 model [Tilman 1977],
-also yields stable coexistance between species.
+also yields stable coexistence between species.
 By describing not only the growth of multiple populations
 but also the depletion of multiple resources,
 this model was able to demonstrate that
@@ -209,7 +209,7 @@ concentrations are low enough for the other.
 
 As a result of this mechanism, supplementation of a
 limiting resource may remove the constraint on one species'
-growth, allowing it to exlude the other in competition for
+growth, allowing it to exclude the other in competition for
 the remaining limiting resource.
 This effect was harnessed by Tilman to show that increasing
 resource availability can result in reduced diversity of
@@ -260,7 +260,7 @@ humans [?].
 
 Despite the anaerobic nature of the intestinal lumen,
 the gut epithelium is richly perfused with blood, resulting
-in diffusion of oxygen through the mucose layer into
+in diffusion of oxygen through the mucous layer into
 the internal environment.
 This proximodistal oxygen gradient suggests that some
 gut bacteria, especially those occupying the mucosa,
@@ -281,7 +281,7 @@ Temporal fluctuations, as well, are probably a ubiquitous
 experience for microbes in the human gut due to physiological
 cycles of the host and directional flow of lumen contents.
 Both temporal and spatial heterogeneity have been studied as
-mechanisms of coexistance [Chesson 2000].
+mechanisms of coexistence [Chesson 2000].
 When environmental changes invert the direction of selection,
 the frequency of these fluctuations (whether in space or time)
 is expected to have an important effect on the outcome of
@@ -300,7 +300,7 @@ demonstrating the universality of physiological trade-offs.
 Negative pleiotropy between the ability to grow on
 different substrates directly explains resource specialization.
 Besides those based on environmental and trophic trade-offs,
-an entire suite of coexistance mechanisms,
+an entire suite of coexistence mechanisms,
 some of which will be described here,
 depend on more abstract correlations between species traits.
 
@@ -313,8 +313,8 @@ While negative frequency dependent effects,
 such as resource limitation,
 serve to stabilize two-species interactions,
 third species can also contribute to these negative feedbacks,
-sometimes promoting stable coexistance.
-Predator and parasite mediated coexistance have been described
+sometimes promoting stable coexistence.
+Predator and parasite mediated coexistence have been described
 theoretically [Caswell 1978] and
 empirically [Paine 1966 (and many others, see Caswell)]
 The result of a new exploitative interaction on the initial
@@ -324,7 +324,7 @@ Either a generalist predator or one which specializes on the weaker
 competitor serves to quicken the rate of ecological selection.
 Conversely, independent predators of each species or a predator
 which specializes on the stronger competitor can lead to stable
-coexistance.
+coexistence.
 In part due to the popularity of 16S based surveys of the
 microbiome
 which often ignore both eukaryotic
@@ -334,7 +334,7 @@ in the human gut are lacking.
 Incorporating these factors may help to explain some of the
 remarkable biodiversity.
 
-Undoubtebly, some of the biodiversity observed in macroscopic
+Undoubtedly some of the biodiversity observed in macroscopic
 organisms can be explained not through exploitative,
 but rather mutualistic interactions.
 Pollinator species in the tropics, for instance, frequently
@@ -356,7 +356,7 @@ but also provide a predictive framework for the impact of
 perturbations on community composition.
 
 ## Neutral Processes ##
-The search for mechanisms of coexistance has been a near obsession for
+The search for mechanisms of coexistence has been a near obsession for
 community ecologists.
 This is partially a byproduct of the popular mathematical approaches,
 especially stability analysis,
@@ -390,7 +390,7 @@ Like competitive exclusion, acting in isolation for
 sufficient time,
 ecological drift results in the loss of diversity.
 This is because the random walk ultimately
-leads to extinction, a non-reversable event.
+leads to extinction, a non-reversible event.
 Whereas niche processes are deterministic and standard mathematical
 models describe dynamics in infinitely large communities,
 ecological drift is strongest in small populations, where
@@ -412,7 +412,7 @@ This perspective is a reminder that community composition,
 and therefore species richness, is constantly in flux.
 
 The stochasticity of ecological drift is tempered, however,
-by the determism of ecological selection,
+by the determinism of ecological selection,
 which in some cases buffers species from extinction through
 negative density or frequency dependent selection,
 and in others quickens the pace through competition.
@@ -424,7 +424,7 @@ exclusion [Adler 2007; Chesson 2000].
 
 One such equalizing mechanism is environmental variability.
 When climatic variables fluctuate at a frequency similar to the
-rate of competitive exlusion, such that the relative fitness of
+rate of competitive exclusion, such that the relative fitness of
 two competitors is continually inverted,
 fitness difference are effectively brought closer to zero [?].
 Short term diversity can therefore be increased by
@@ -433,7 +433,7 @@ In the human gut, this mechanism may be highly important,
 since temporal fluctuations are ubiquitous and occur at a
 variety of time scales.
 Alternatively, even in static environments,
-fitness equivilancy may be the norm,
+fitness equivalency may be the norm,
 a hypothesis supported by the prevalence of
 physiological trade-offs.
 
@@ -441,7 +441,7 @@ Whether the diversity of the human gut is the result of
 deterministic, stabilizing mechanisms, or processes which equalize
 fitness between species is a key question [Adler 2007],
 and may have implications for the management of microbiome related
-disbioses.
+dysbiosis.
 
 ### Migration and Speciation ###
 With competition and drift actively removing diversity from local
@@ -463,7 +463,7 @@ local system.
 With little previous research, the source of extreme species richness
 in the human gut is a standing question.
 The relative importance of stabilizing mechanisms which promote
-long term coexistance, versus non-equilibrium processes, such as
+long term coexistence, versus non-equilibrium processes, such as
 drift, migration, and _in situ_ diversification remains to be tested,
 and all four processes are likely to take part.
 For community ecology, Hutchinson's _Paradox of the Plankton_ has
@@ -479,7 +479,7 @@ a similarly robust theoretical foundation will be of paramount
 importance.
 A central question, such as explaining the observed
 diversity of the gut community, will serve to motivate and focus
-theory and experimentation, with positive repurcussions for
+theory and experimentation, with positive repercussions for
 applications as well.
 Human microbiome research _is_ community ecology.
 While there are undoubtedly qualitative differences between
