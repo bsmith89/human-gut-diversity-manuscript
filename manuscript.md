@@ -138,7 +138,7 @@ Simple, non-mechanistic models of multi-species growth,
 such as Competitive Lotka-Volterra [Volterra?; Lotka?],
 incorporate these limitations as a single term for each species,
 the carrying capacity of the environment,
-while a separate interaction terms define the effect of a other species
+while a separate interaction terms define the effect of the other species
 on that carrying capacity.
 The carrying capacity terms are therefore a description of the strength
 of self-regulation for each species
@@ -147,7 +147,6 @@ and the ratios of the interaction terms to carrying capacities can
 be interpreted as the strength of interspecific competition.
 
 ### Ecological Niches ###
-
 When species consume the same limiting resource
 interspecific interactions are relatively strong,
 whereas, when there is no overlap between the resources consumed,
@@ -235,16 +234,15 @@ A similar test in mice could asses the importance of limiting
 resources in maintaining gut biodiversity.
 
 ### Environmental Heterogeneity ###
-
 Of course, the entire length of the human digestive system can
 hardly be considered a single environment.
 Fecal samples, the source of most richness estimates, are the
 summation of microbial populations which persist in
 food, oral, gastric, small intestinal, and colonal habitats
 (and perhaps other ecologically relevant subdivisions).
-The total number of resource niches contributing
+Perhaps the total number of resource niches contributing
 to the diversity of microbes in feces,
-is perhaps better estimated as the sum of limiting resources
+is better estimated as the sum of limiting resources
 within each environment along the digestive tract.
 Environmental factors, such as temperature, pH,
 oxygen availability, and the host immune system,
@@ -312,8 +310,8 @@ competition [Hutchinson 1961].
 -  Intermediate disturbance [Connell 1978]
     -  Original model relies on successional processes
 
-### Evolutionary Trade-offs ###
 
+### Evolutionary Trade-offs ###
 The observation that the outcome of competition is context
 dependent reflects another central theme of community ecology.
 No species is ecologically superior in all environments,
@@ -329,7 +327,6 @@ depend on more abstract correlations between species traits.
 -  Storage Effect (or at least mention non-linear effects)
 
 ### Network Effects ###
-
 While negative frequency dependent effects,
 such as resource limitation,
 serve to stabilize two-species interactions,
@@ -406,7 +403,7 @@ biodiversity in the human gut.
 ### Ecological Drift ###
 Ecological drift, like its evolutionary counterpart, is the result
 of the inherently statistical nature of births and deaths in
-natural populations, and results and a random walk of
+natural populations, and results in a random walk of
 relative abundances through time.
 Like competitive exclusion, acting in isolation for
 sufficient time,
@@ -543,7 +540,6 @@ Alternative explanations, such as monotonic effects of symbionts on host
 fitness and host genotype control are often more parsimonious.
 
 # Conclusion #
-
 With little previous research, the source of extreme species richness
 in the human gut is a standing question.
 The relative importance of stabilizing mechanisms which promote
@@ -551,7 +547,7 @@ long term coexistence, versus non-equilibrium processes, such as
 drift, migration, and _in situ_ diversification remains to be tested,
 and all four processes are likely to take part.
 For community ecology, Hutchinson's _Paradox of the Plankton_ has
-served as a rallying point for theoretical study [?],
+served as a focus for theoretical study [?],
 ultimately leading to a diverse mathematical basis for empirical
 study.
 With the advent of culture-free methods for microbial ecology,
