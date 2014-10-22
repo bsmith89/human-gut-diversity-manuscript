@@ -16,17 +16,16 @@ author: Byron J. Smith
         [Number of vertabrates in US](http://www.currentresults.com/Environment-Facts/Plants-Animals/number-of-native-species-in-united-states.php)
 
         [Number of amphibians worldwide](http://faculty.college-prep.org/~bernie/sciproject/project/Kingdoms/Animal%20Kingdom%20-%205/Local%20copy/classification/chordata.html)
-
--  Lack of diversity correlates with disease
-    -  Obesity [see HMP 2012 for refs.]
-    -  IBD [see HMP for refs.]
-    -  Cdiff [?]
-    -  Crohn's disease [Manichanh 2006]
--  Diversity may confer health benefits
+-  The human microbiome is important to human health
     -  Immune system 'training' [?]
     -  Invasion resistance [?]
     -  SCFA production [?]
     -  Emergent properties? Stability? [?]
+-  Lack of diversity correlates with disease
+    -  Obesity [see HMP 2012 for refs.]
+    -  IBD [see HMP for refs.]
+    -  Cdiff [Chang 2008]
+    -  Crohn's disease [Manichanh 2006]
 
 ## Gause's Law ##
 Based on intuition, theoretical
@@ -41,9 +40,15 @@ heavily to its experimental description [Gause 1932; 1936], is also called
 the principle of competitive exclusion, since it is based on
 the reciprocally negative interactions between two species which
 depend on the same limiting resource.
+It has been further refined to the statement: $n$ species cannot coexist on
+fewer than $n$ resources, niches, or limiting factors
+[various authors, for a review see Armstrong 1980].
 The growth of one population necessarily leads to the decline of
 the other, ultimately leading to its extinction.
 At equilibrium, only the better competitor is able to persist [Volterra;].
+
+-  Examples of exclusionary relationships between
+   species in the gut [Faust2012a]
 
 While exceptions to this principle are frequently suggested [Koch 1974?],
 and many cases of stable coexistence have been robustly described,
@@ -89,7 +94,8 @@ What's more, challenges to a number of assumptions implicit in our
 surprised reaction to this high species richness
 have yielded alternative models of community assembly
 which may improve our holistic understanding.
-
+Here we will review this literature in order to identify processes which may
+contribute to the high diversity of the human gut microbiome.
 
 # Explanations for Diversity #
 Through a combination of theoretical and empirical study, a number of
@@ -299,9 +305,12 @@ the frequency of these fluctuations (whether in space or time)
 is expected to have an important effect on the outcome of
 competition [Hutchinson 1961].
 
--  Beta diversity
 -  Are heterogeneities in the gut at the right scale to
    explain microbiome diversity?
+-  Temporal heterogeneity, dormancy
+-  Beta diversity
+-  Intermediate disturbance [Connell 1978]
+    -  Original model relies on successional processes
 
 ### Evolutionary Trade-offs ###
 
@@ -496,6 +505,8 @@ A significant fraction of the species diversity in the human gut may be
 transients from the external environment.
 If this hypothesis is correct then community composition should reflect
 primarily neutral processes.
+
+-  How do they survive the stomach acid and oxygen rich atmosphere?
 
 ## Emergent Properties and Higher Level Selection ##
 As a result of the immense importance of the gut microbiome to host health,
