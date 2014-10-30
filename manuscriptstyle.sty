@@ -1,0 +1,42 @@
+\ProvidesPackage{manuscriptstyle}
+\usepackage{masterstyle}
+
+\usepackage{amssymb}
+\usepackage{url}  % Supposedly makes URLs better in natbib
+\usepackage{hyperref}
+% Figures and captions.
+\usepackage[pdftex]{graphicx}
+\usepackage[font=footnotesize]{caption}
+\usepackage{subcaption}
+%\renewcommand{\thesubfigure}{\alph{subfigure}}  % Label subfigures with capital letters
+%% TODO: Fix the caption font
+%% See: http://tex.stackexchange.com/a/61649/24006
+
+% Because it's a draft
+\usepackage{setspace}
+%\doublespacing{}
+\usepackage[modulo]{lineno}
+%\linenumbers{}
+\usepackage{fullpage}
+
+\usepackage[acronym]{glossaries}
+\newacronym{WT}{WT}{wild-type}
+\newacronym{EMP}{EMP}{Embden-Meyerhof-Parnas}
+\newacronym{ED}{ED}{Entner-Doudoroff}
+\newacronym{HGT}{HGT}{horizontal gene transfer}
+\newacronym{MPN}{MPN}{most probably number}
+\newacronym{BGE}{BGE}{bacterial growth efficiency}
+% Acronyms which require a citation:
+\newacronym[first={Ribosomal RNA Database~\citep[rrnDB, ][]{Lee2009a}}]
+		   {rrnDB}{rrnDB}{Ribosomal RNA Database}
+\newacronym[first={Ribosomal Database Project~\citep[RDP, ][]{Wang2007}}]
+		   {RDP}{RDP}{Ribosomal Database Project}
+\newacronym[first={Kyoto Encyclopedia of Genes and
+			Genomes~\citep[KEGG, ][]{Kanehisa2014}}]
+		   {KEGG}{KEGG}{Kyoto Encyclopedia of Genes and Genomes}
+\newacronym{rrn}{\gene{rrn}}{rRNA operon}
+\newacronym{nirK}{\gene{nirK}}{nitrite reductase}
+\newacronym{CFU}{CFU}{colony forming unit}
+\newacronym{ODE}{ODE}{ordinary differential equation}
+\newacronym{SCFA}{SCFA}{short-chain fatty acid}
+\newacronym{IBD}{IBD}{inflammatory bowel disease}

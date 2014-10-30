@@ -1,0 +1,75 @@
+\ProvidesPackage{masterstyle}
+
+\usepackage{xstring}
+\usepackage[round]{natbib}
+\usepackage{doi}  % Should hyperlink the DOI fields in the bibleography.
+\usepackage{textgreek}  % \alpha without mathmode = \textalpha
+\usepackage{xstring}
+\usepackage{lmodern}
+\setcounter{tocdepth}{3}  % Include paragraphs in the table of contents.
+\usepackage[version=3]{mhchem}  % Chemical formulas without mathmode \ce{O2}
+\usepackage[makeroom]{cancel}
+% Global units formatting rather than inline.
+\usepackage{siunitx}
+\sisetup{range-phrase = --, range-units = single, per-mode = symbol}
+\DeclareSIUnit{\molar}{\textsc{m}}
+\DeclareSIUnit{\rpm}{rpm}
+\DeclareSIUnit{\cell}{cells}
+% Putting figures and captions side-by-side.
+\usepackage{sidecap}
+\sidecaptionvpos{figure}{c}
+
+\newcounter{hypoth}
+\setcounter{hypoth}{0}
+\renewcommand{\thehypoth}{\arabic{hypoth}}
+\newcommand{\hypothesis}[2][]{%
+	\refstepcounter{hypoth}
+	\ifthenelse{\equal{#1}{}}
+		{\paragraph[#2]{Hypothesis \thehypoth: #2}}
+		{\paragraph[#1]{Hypothesis \thehypoth: #2}}
+}
+
+% Based on a recipe found at
+% http://tex.stackexchange.com/a/71226/24006
+\DeclareRobustCommand*\textsubscript[1]{%
+  \@textsubscript{\selectfont#1}}
+\def\@textsubscript#1{%
+  {\m@th\ensuremath{_{\mbox{\fontsize\sf@size\z@#1}}}}}
+\makeatother
+
+\newcommand{\latin}[1]{\textit{#1}}
+\newcommand{\bo}{\textsl{bo}}
+\newcommand{\bd}{\textsl{bd}}
+\newcommand{\cbbthree}{\textsl{cbb}\textsubscript{3}}
+% Probably not the best way to format bo, bd, etc.
+\newcommand{\lmda}{\(\lambda\)}
+\newcommand{\positive}{\(^+\)}
+\newcommand{\negative}{\(^-\)}
+\newcommand{\algorithm}[1]{\texttt{#1}}
+\newcommand{\R}{\(r\)}
+\newcommand{\K}{\(K\)}
+\newcommand{\gene}[1]{\textit{#1}}
+\newcommand{\dnds}{\(d_\mathrm{N}/d_\mathrm{S}\)}
+\newcommand{\article}[1]{`#1'}
+
+% Species names.
+\newcommand{\species}[1]{\textit{#1}}
+\newcommand{\NewSpecies}[3]{%
+	% #1 is the short name / command name
+	% #2 is the genus name
+	% #3 is the species name
+	\newboolean{first#1}
+	\setboolean{first#1}{true}
+	\expandafter\DeclareRobustCommand\csname #1\endcsname{%
+		\ifthenelse{\boolean{first#1}}{%
+			\setboolean{first#1}{false}%
+			\species{#2 #3}%  % Format the first time
+		}{%
+			\species{\StrLeft{#2}{1}.~#3}%   % Format remaining times.
+		}%
+	}%
+}
+\NewSpecies{ecoli}{Escherichia}{coli}
+\NewSpecies{bsubt}{Bacillus}{subtilis}
+\NewSpecies{llact}{Lactococcus}{lactis}
+\NewSpecies{cdiff}{Clostridium}{difficile}
